@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aeferguson
-- 👀 I’m interested in system adminstration, devops, CI/CD
+- 👀 I’m interested in system adminstration, devops, ✨CI/CD✨
 - 🌱 I’m currently learning about SAST, webhooks, REST APIs
 - 💞️ I’m looking to collaborate on whatever you got 🤠
 - 📫 How to reach me: andrew.e.ferguson@icloud.com
